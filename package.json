@@ -2,9 +2,9 @@
   "name": "uzh-github-spider",
   "version": "1.0.0",
   "description": "",
-  "main": "master/app.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node master/app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafael Kallis",
